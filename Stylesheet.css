@@ -12,7 +12,7 @@ body {}
     display: flex;
     flex-direction: row;
     text-align: center;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
 }
 .flex-container2 > div {
     width: 100px;
