@@ -6,7 +6,7 @@ body {}
 .flex-container1 > div {
     display: flex;
     flex-direction: row;
-    background-color: DodgerBlue;
+    
 }
 .flex-container2 {
     display: flex;
