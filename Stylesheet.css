@@ -8,3 +8,13 @@ body {}
     flex-direction: row;
     text-align: center;
 }
+.flex-container2 > div {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.flex-container2 > div {
+    width: 100px;
+    margin: 10px;
+    }
