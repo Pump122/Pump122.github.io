@@ -3,3 +3,8 @@
 body {}
 .button{}
 .button1 {width:280px;}
+.flex-container1 > div {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
